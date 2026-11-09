@@ -1,0 +1,8 @@
+# Compiled Java classes
+*.class
+
+# IDE / OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
