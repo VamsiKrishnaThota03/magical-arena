@@ -6,3 +6,6 @@
 .vscode/
 *.iml
 .DS_Store
+
+# Build output
+out/
